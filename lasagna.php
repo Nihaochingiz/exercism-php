@@ -1,5 +1,5 @@
 <?php
-
+ 
 // https://exercism.org/tracks/php/exercises/lasagna/edit
 
 class Lasagna
